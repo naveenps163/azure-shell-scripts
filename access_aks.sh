@@ -24,3 +24,4 @@ else
   echo "Failed to get credentials for AKS cluster $CLUSTER_NAME."
   exit 1
 fi
+#this is dummy line i added
